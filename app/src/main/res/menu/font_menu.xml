@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="type"
+        android:id="@+id/FontTypes"
+        android:icon="@drawable/baseline_mode_edit_outline_24"
+        />
+    <item
+        android:title="color"
+        android:id="@+id/FontColor"
+        android:icon="@drawable/baseline_format_color_text_24"
+        />
+
+</menu>
